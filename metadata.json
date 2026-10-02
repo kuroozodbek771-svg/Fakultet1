@@ -1,0 +1,6 @@
+{
+  "name": "EXAMGUARD - Imtihon jadvalini optimallashtirish va to‘qnashuvlarni aniqlash tizimi",
+  "description": "Fakultet imtihon jadvalidagi to‘qnashuvlarni aniqlash, jadvalni optimallashtirish, Excel import/export va tahlil tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
